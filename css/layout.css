@@ -24,4 +24,26 @@
 
 /* Positioning Classes */
 
+[class*="col-"] {
+  margin-left: 20px;
+}
+
+.first {
+  margin-left: 0%;
+}
+
+.col-1 {
+  float: left;
+  width: 32%;
+}
+
+.col-2 {
+  float: left;
+  width: 66%;
+}
+
+
+
+
+
 
