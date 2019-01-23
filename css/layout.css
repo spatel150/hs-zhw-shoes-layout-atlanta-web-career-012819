@@ -24,7 +24,9 @@
 
 /* Positioning Classes */
 
-[class* ="col-1"]
+[class* ="col-1"] {
+  
+}
 
 
 
